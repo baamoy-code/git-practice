@@ -6,7 +6,7 @@ const Header = () => {
     <div className=" flex items-center justify-between md:h-full">
       <div className="flex gap-6 items-center">
         <MdFlight className="text-2xl text-orange-600" />
-        <h1 className="text-xs">Aphos CMS</h1>
+        <h1 className="text-lg text-white font-bold">Aphos CMS</h1>
       </div>
       <div className="flex items-center gap-4 justify-self-end">
         <MdLogin className="text-lg" />
